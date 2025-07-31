@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 
-<img align="right" width="400" alt="" src="https://imgur.com/a/iqAXxGj"/>
+<img align="right" width="400" alt="" src="[https://imgur.com/a/iqAXxGj](https://i.imgur.com/LXznYVy.jpeg)"/>
 
 <h2> / about me /</h2>
   
