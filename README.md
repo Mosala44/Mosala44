@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 👾 I am in my last year of **engineering**
   
 <h2> / current skills / </h2>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"></svg>
