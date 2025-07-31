@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 - 💀 mostly working on **private repositories**
 - 👾 I am in my last year of **engineering**
   
-<h2> / current skills / </h2>
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"></svg>
+<h2> / Languajes / </h2>
+<h2> / FrameWorks /</h2>
+<h2> /  Database / </h2>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"/> 
