@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <h2> / Languajes / </h2>
 <h2> / FrameWorks /</h2>
 <h2> /  Database / </h2>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"/> 
+<img src="http://www.w3.org/2000/svg"/> 
