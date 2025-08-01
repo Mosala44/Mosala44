@@ -3,7 +3,9 @@
 <!--
 **Mosala44/Mosala44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h5>22-year-old, i am junior fullstack developer from Chile.</h5>
+<h5>22-year-old, i am junior fullstack developer from Chile🇨🇱💻.</h5>
+<br>
+<h5>Soy un Desarrollador Junior FullStack, tengo 22 años y soy de chile🇨🇱💻</h5>
 
 <div>
 
