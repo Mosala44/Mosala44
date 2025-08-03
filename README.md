@@ -3,9 +3,9 @@
 <!--
 **Mosala44/Mosala44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h5>22-year-old, i am junior fullstack developer from Chile🇨🇱💻.</h5>
+<h5>22-year-old, i am junior fullstack developer from Chile <span class="flag-icon-chl"></span> 🇨🇱💻.</h5>
 <br>
-<h5>Soy un Desarrollador Junior FullStack, tengo 22 años y soy de chile🇨🇱💻</h5>
+<h5>Soy un Desarrollador Junior FullStack, tengo 22 años y soy de chile 🇨🇱💻</h5>
 
 <div>
 
@@ -32,3 +32,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"/> 
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)"/> 
+
+<h2>/ Contact me /</h2>
+<a href= "https://www.instagram.com/mosala_44/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href= "javiervarasbolados@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
